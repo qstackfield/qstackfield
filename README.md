@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://i.postimg.cc/Nf8Ntq79/ris-dark.png" alt="RIS Logo" width="110" />
-  <br />
-  <img src="[[https://i.postimg.cc/QdV16pcB/IMG-4837.jpg](https://postimg.cc/QVtFG74P][img]https://i.postimg.cc/QVtFG74P/1c3f3e6f-77c8-4110-a31f-263499b73f03.png)](https://postimg.cc/QVtFG74P)" alt="Atom Labs Banner" width="80%" />
+  <img src="https://i.postimg.cc/pyTmbjcv/ris-logo.png" alt="RIS Logo" width="140" />
+  <br>
+  <img src="https://i.postimg.cc/QVtFG74P/atom-labs-banner.png" alt="Atom Labs Banner" width="88%" />
 </p>
 
 <h2 align="center">Atom Labs - Building the Cognitive Infrastructure Layer</h2>
