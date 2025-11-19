@@ -171,5 +171,4 @@ RIS anchors the entire Atom Labs ecosystem as the standard of record for reasoni
 <p align="center">
   <img src="https://i.postimg.cc/tgqh7vcp/atom-labs-dark.png" alt="Atom Labs Logo" width="120" />
   <br /><br />
-  <em>You don’t buy signals — you own the operating system.</em>
 </p>
