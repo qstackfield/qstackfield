@@ -14,7 +14,7 @@
 
 ---
 
-# VANTA OS — Autonomous Capital Intelligence Stack
+# VANTA OS - Autonomous Capital Intelligence Stack
 
 **VANTA OS** is a governed, replayable cognitive operating system that replaces fragmented vendor stacks with a unified brain:
 
@@ -45,7 +45,7 @@ Visit the live RIS standard at:
 
 ---
 
-# LCAC — Least-Context Access Control
+# LCAC - Least-Context Access Control
 
 **LCAC** is the cognitive-layer security framework that enforces:
 
