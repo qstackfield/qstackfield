@@ -136,14 +136,14 @@ RIS anchors the entire Atom Labs ecosystem as the standard of record for reasoni
 </p>
 
 <ul>
-  <li><strong>RIS Standard</strong> — methodology, controls, scoring levels</li>
-  <li><strong>RIS Evaluator</strong> — scoring engine, variance envelopes, integrity curves</li>
-  <li><strong>LCAC</strong> — cognitive-layer security & drift governance</li>
-  <li><strong>LCAC Governor</strong> — production runtime for drift monitoring</li>
-  <li><strong>RIS Portal</strong> — analytics, scorecards, submissions, dashboards</li>
-  <li><strong>VANTA OS</strong> — capital intelligence engine built on LCAC + RIS</li>
-  <li><strong>Atom Labs Observability</strong> — cognitive telemetry & persona modeling (upcoming)</li>
-  <li><strong>RIS Certification</strong> — model integrity compliance frameworks (v1.1+)</li>
+  <li><strong>RIS Standard</strong> - methodology, controls, scoring levels</li>
+  <li><strong>RIS Evaluator</strong> - scoring engine, variance envelopes, integrity curves</li>
+  <li><strong>LCAC</strong> - cognitive-layer security & drift governance</li>
+  <li><strong>LCAC Governor</strong> - production runtime for drift monitoring</li>
+  <li><strong>RIS Portal</strong> - analytics, scorecards, submissions, dashboards</li>
+  <li><strong>VANTA OS</strong> - capital intelligence engine built on LCAC + RIS</li>
+  <li><strong>Atom Labs Observability</strong> - cognitive telemetry & persona modeling (upcoming)</li>
+  <li><strong>RIS Certification</strong> - model integrity compliance frameworks (v1.1+)</li>
 </ul>
 
 <hr/>
