@@ -18,7 +18,7 @@
 
 <hr/>
 
-<h1>🔷 Reasoning Integrity Standard (RIS)</h1>
+<h1> Reasoning Integrity Standard (RIS)</h1>
 
 <p>
 The <strong>Reasoning Integrity Standard (RIS)</strong> is the world’s first formal standard 
@@ -40,7 +40,7 @@ Live RIS Portal:
 
 <hr/>
 
-<h1>🔷 LCAC - Least-Context Access Control</h1>
+<h1> LCAC - Least-Context Access Control</h1>
 
 <p>
 <strong>LCAC</strong> is the cognitive-layer security framework that enforces reasoning integrity, 
@@ -62,7 +62,7 @@ LCAC governs the <em>reasoning process itself</em> — not just outputs.
 
 <hr/>
 
-<h1>🔷 LCAC Governor - Runtime Cognitive Governance</h1>
+<h1> LCAC Governor - Runtime Cognitive Governance</h1>
 
 <p>
 The <strong>LCAC Governor</strong> is the operational layer that monitors LLM reasoning in real time, 
@@ -84,7 +84,7 @@ Live Console:
 
 <hr/>
 
-<h1>🔷 RIS Portal, Evaluator, & CII (Cognitive Integrity Index)</h1>
+<h1> RIS Portal, Evaluator, & CII (Cognitive Integrity Index)</h1>
 
 <p>
 The <strong>RIS Portal</strong> is the central hub for evaluating, scoring, and certifying reasoning integrity 
@@ -106,7 +106,7 @@ Portal: <a href="https://ris.atomlabs.app"><strong>https://ris.atomlabs.app</str
 
 <hr/>
 
-<h1>🔷 VANTA OS - Capital Intelligence Engine (Built on LCAC + RIS)</h1>
+<h1> VANTA OS - Capital Intelligence Engine (Built on LCAC + RIS)</h1>
 
 <p>
 <strong>VANTA OS</strong> is an autonomous capital intelligence operating system that uses LCAC and RIS 
@@ -129,7 +129,7 @@ VANTA OS Repository:
 
 <hr/>
 
-<h1>🔷 Atom Labs Cognitive Stack (Unified Architecture)</h1>
+<h1> Atom Labs Cognitive Stack (Unified Architecture)</h1>
 
 <p>
 RIS anchors the entire Atom Labs ecosystem as the standard of record for reasoning stability.
@@ -148,7 +148,7 @@ RIS anchors the entire Atom Labs ecosystem as the standard of record for reasoni
 
 <hr/>
 
-<h1>🔷 Quick Links</h1>
+<h1> Quick Links</h1>
 
 <ul>
   <li><strong>RIS Portal</strong>: https://ris.atomlabs.app</li>
@@ -161,7 +161,7 @@ RIS anchors the entire Atom Labs ecosystem as the standard of record for reasoni
 
 <hr/>
 
-<h1>🔷 Connect</h1>
+<h1> Connect</h1>
 
 <ul>
   <li>LinkedIn: https://www.linkedin.com/in/qstackfield</li>
