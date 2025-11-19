@@ -4,7 +4,7 @@
   <img src="https://i.postimg.cc/QdV16pcB/IMG-4837.jpg" alt="VANTA OS Banner" width="85%" />
 </p>
 
-<h2 align="center">Welcome — I’m building the cognitive infrastructure layer.</h2>
+<h2 align="center">Welcome - I’m building the cognitive infrastructure layer.</h2>
 
 <p align="center">
   I’m <strong>Quinton Stackfield</strong>, AI Systems Architect and creator of the
