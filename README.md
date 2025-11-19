@@ -169,6 +169,6 @@ RIS anchors the entire Atom Labs ecosystem as the standard of record for reasoni
 </ul>
 
 <p align="center">
-  <img src="[https://i.postimg.cc/tgqh7vcp/atom-labs-dark.png](https://i.postimg.cc/QVtFG74P/atom-labs-banner.png)" alt="Atom Labs Logo" width="120" />
+  <img src="https://i.postimg.cc/QVtFG74P/atom-labs-banner.png" alt="Atom Labs Banner" width="88%" />
   <br /><br />
 </p>
