@@ -61,7 +61,7 @@ ATOM provides a closed, auditable decision loop that binds:
 - execution  
 - and audit  
 
-**before** actions occur — not after.
+**before** actions occur - not after.
 
 This keeps systems boring in the best way:
 - no surprises  
@@ -90,7 +90,7 @@ Decisions are evaluated and recorded.
 Enforcement is deterministic, auditable, and reversible.
 
 ### Boring Is the Goal
-Well-governed systems look uninteresting — because failure modes were removed upstream.
+Well-governed systems look uninteresting - because failure modes were removed upstream.
 
 ---
 
@@ -161,7 +161,7 @@ you’re already thinking at the right layer.
 
 ---
 
-## Hackathon / Evaluation Note
+## Evaluation Note
 
 ATOM is infrastructure, not a demo artifact.
 
