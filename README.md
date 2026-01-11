@@ -4,7 +4,7 @@
 I build systems for environments where **execution cannot outrun authority**.
 
 Most AI failures I’ve seen weren’t model failures.  
-They were **governance failures** — responsibility drifting, approvals implied, audits reconstructed after the fact.
+They were **governance failures** - responsibility drifting, approvals implied, audits reconstructed after the fact.
 
 I’ve lived this from multiple sides:
 - consulting  
