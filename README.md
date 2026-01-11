@@ -85,7 +85,7 @@ Decisions are evaluated and recorded.
 Enforcement is deterministic, auditable, and reversible.
 
 ### Boring Is the Goal  
-Well-governed systems look uninteresting —  
+Well-governed systems look uninteresting -  
 because failure modes were removed upstream.
 
 ---
