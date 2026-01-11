@@ -100,7 +100,7 @@ ATOM provides a closed, auditable decision loop that binds:
 - execution  
 - and audit  
 
-**before** actions occur — not after.
+**before** actions occur - not after.
 
 This keeps systems boring in the best way:
 - no surprises  
