@@ -185,6 +185,11 @@ Evaluation should focus on:
 
 Not on model output quality or prompt design.
 
+> Intellectual Property Notice  
+> Portions of this system are protected by U.S. patent pending filings related to authority-before-execution governance for autonomous and AI-driven systems.
+
+
+
 ---
 
 ## About Me
