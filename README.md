@@ -19,7 +19,7 @@ That experience shapes how I build:
 
 ## What I Build
 
-I’m the architect and builder of **ATOM** - a console-driven **governance, trust, and execution control plane** for AI and autonomous systems.
+I’m the architect and builder of **ATOM** - a console-driven **governance, trust, and execution control plane** for AI and autonomous systems. “Patent Pending (USPTO Provisional No. 63/958,209)”
 
 ATOM exists for environments where:
 - decisions must be explicit  
